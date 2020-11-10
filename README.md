@@ -72,3 +72,4 @@ useEffect(() => {
 - Look up the `TVMaze` API. Add a dropdown with the titles of some other popular shows. Add the user sequence of choosing a different show to fetch data for different shows.
 
 - Add React Router, and add the functionality to click an episode and navigate to an episode page.
+ comment 
