@@ -6,7 +6,7 @@
 
 - use mocks in unit tests
 - test asynchronous API calls that are made in a component
-- test React components as the props change
+- test React components as nothe props change
 
 ### Introduction
 
